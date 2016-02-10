@@ -7,14 +7,14 @@
     "description": "This application is about ",
     "id": "46701a72410c",
     "icon": "../css/images/analytic.jpg",
-    "location" : "../bdreappstore-apps/banking/customer attrition.zip"
+    "location" : "../bdreappstore-apps/banking/customer_attrition.zip"
   }, {
     "category": "Category 1",
     "name": "Next Best Offer",
     "description": "This application is about ",
     "id": "46701a72410c",
     "icon": "../css/images/analytic.jpg",
-    "location" : "../bdreappstore-apps/banking/next best offer.zip"
+    "location" : "../bdreappstore-apps/banking/next_best_offer.zip"
   }, {
     "category": "Category 1",
     "name": "Universal Persona",
