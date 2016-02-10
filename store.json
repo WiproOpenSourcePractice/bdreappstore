@@ -6,14 +6,14 @@
     "name": "Customer Attrition",
     "description": "This application is about ",
     "id": "46701a72410c",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "banking/customer_attrition/analytic.jpg",
     "location" : "bdreappstore-apps/banking/customer_attrition.zip"
   }, {
     "category": "Category 1",
     "name": "Next Best Offer",
     "description": "This application is about ",
     "id": "46701a72410c",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "banking/next_best_offer/analytic.jpg",
     "location" : "bdreappstore-apps/banking/next_best_offer.zip"
   }, {
     "category": "Category 1",
