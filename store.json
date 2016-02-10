@@ -20,14 +20,14 @@
     "name": "Universal Persona",
     "description": "This application is about ",
     "id": "46701a72410c",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "banking/reputation management/analytic.jpg",
     "location" : "bdreappstore-apps/banking/reputation management.zip"
   }, {
     "category": "Category 1",
     "name": "Reputation Management",
     "description": "This application is about ",
     "id": "46701a72410c",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "banking/universal persona/analytic.jpg",
     "location" : "bdreappstore-apps/banking/universal persona.zip"
   }]
 }, {
@@ -38,14 +38,14 @@
     "name": "Customer Attrition",
     "description": "This application is about ",
     "id": "9a18ffe9f148",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "telecom/bandwidth throttling/analytic.jpg",
     "location" : "bdreappstore-apps/telecom/bandwidth throttling.zip"
   }, {
     "category": "Category 2",
     "name": "Bandwidth Throttling",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "telecom/customer attrition/analytic.jpg",
     "location" : "bdreappstore-apps/telecom/customer attrition.zip"
   }]
 }, {
@@ -56,14 +56,14 @@
     "name": "Customer Attrition",
     "description": "This application is about ",
     "id": "bb06b1eec9c8",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "insurance/customer attrition/analytic.jpg",
     "location" : "bdreappstore-apps/insurance/customer attrition.zip"
   }, {
     "category": "Category 3",
     "name": "NPS Survey Analytics",
     "description": "This application is about ",
     "id": "92973f4cfbfc",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "insurance/nps survey analytics/analytic.jpg",
     "location" : "bdreappstore-apps/insurance/nps survey analytics.zip"
 	
   }, {
@@ -71,7 +71,7 @@
     "name": "Regulatory Compliance",
     "description": "This application is about ",
     "id": "b06bbb86d278",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "insurance/regulatory compliance/analytic.jpg",
     "location" : "bdreappstore-apps/insurance/regulatory compliance.zip"
   }]
 }, {
@@ -82,14 +82,14 @@
     "name": "Store Labor Optimization",
     "description": "This application is about ",
     "id": "9a18ffe9f148",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "retail/store labor optimization/analytic.jpg",
     "location" : "bdreappstore-apps/retail/store labor optimization.zip"
   }, {
     "category": "Category 2",
     "name": "Weather Impact",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "retail/weather impact/analytic.jpg",
     "location" : "bdreappstore-apps/retail/weather impact.zip"
   }]
 }, {
@@ -100,14 +100,14 @@
     "name": "Revenue Leakage",
     "description": "This application is about ",
     "id": "9a18ffe9f148",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "healthcare/revenue leakage/analytic.jpg",
     "location" : "bdreappstore-apps/healthcare/revenue leakage.zip"
   }, {
     "category": "Category 2",
     "name": "Pricing Optimization",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "healthcare/pricing optimization/analytic.jpg",
     "location" : "bdreappstore-apps/healthcare/pricing optimization.zip"
   }]
 }, {
@@ -118,14 +118,14 @@
     "name": "HR Optimization",
     "description": "This application is about ",
     "id": "9a18ffe9f148",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "healthcare/pricing optimization/analytic.jpg",
     "location" : "bdreappstore-apps/healthcare/pricing optimization.zip"
   }, {
     "category": "Category 2",
     "name": "Voltage Optimization",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "../css/images/analytic.jpg",
+    "icon": "healthcare/pricing optimization/analytic.jpg",
     "location" : "bdreappstore-apps/healthcare/pricing optimization.zip"
   }]
 }
