@@ -65,7 +65,6 @@
     "id": "92973f4cfbfc",
     "icon": "insurance/nps_survey_analytics/analytic.jpg",
     "location" : "bdreappstore-apps/insurance/nps_survey_analytics.zip"
-      
   }, {
     "category": "Category 3",
     "name": "Regulatory Compliance",
@@ -117,7 +116,6 @@
     "category": "Category 2",
     "name": "HR Optimization",
     "description": "This application is about ",
-    "id": "9a18ffe9f148",
     "icon": "healthcare/pricing_optimization/analytic.jpg",
     "location" : "bdreappstore-apps/healthcare/pricing_optimization.zip"
   }, {
