@@ -6,29 +6,43 @@
     "name": "Customer Attrition",
     "description": "This application is about ",
     "id": "46701a72410c",
-    "icon": "banking/customer_attrition/analytic.jpg",
+    "icon": "banking/customer_attrition/analytic.png",
     "location" : "bdreappstore-apps/banking/customer_attrition.zip"
   }, {
     "category": "Category 1",
     "name": "Next Best Offer",
     "description": "This application is about ",
-    "id": "46701a72410c",
-    "icon": "banking/next_best_offer/analytic.jpg",
+    "id": "46701a72410d",
+    "icon": "banking/next_best_offer/analytic.png",
     "location" : "bdreappstore-apps/banking/next_best_offer.zip"
   }, {
     "category": "Category 1",
-    "name": "Universal Persona",
+    "name": "Reputation Management",
     "description": "This application is about ",
-    "id": "46701a72410c",
-    "icon": "banking/reputation_management/analytic.jpg",
+    "id": "46701a72410e",
+    "icon": "banking/reputation_management/analytic.png",
     "location" : "bdreappstore-apps/banking/reputation_management.zip"
   }, {
     "category": "Category 1",
     "name": "Reputation Management",
     "description": "This application is about ",
-    "id": "46701a72410c",
-    "icon": "banking/universal_persona/analytic.jpg",
+    "id": "46701a72410f",
+    "icon": "banking/universal_persona/analytic.png",
     "location" : "bdreappstore-apps/banking/universal_persona.zip"
+  },{
+    "category": "Category 1",
+    "name": "Client Life Time Value",
+    "description": "This application is about ",
+    "id": "46701a72410g",
+    "icon": "banking/lifetime_value/analytic.png",
+    "location" : "bdreappstore-apps/banking/lifetime_value.zip"
+  },{
+    "category": "Category 1",
+    "name": "Fraud Prediction",
+    "description": "This application is about ",
+    "id": "46701a72410f",
+    "icon": "banking/fraud_prediction/analytic.png",
+    "location" : "bdreappstore-apps/banking/fraud_prediction.zip"
   }]
 }, {
   "name": "Telecom",
@@ -38,14 +52,14 @@
     "name": "Customer Attrition",
     "description": "This application is about ",
     "id": "9a18ffe9f148",
-    "icon": "telecom/bandwidth_throttling/analytic.jpg",
+    "icon": "telecom/bandwidth_throttling/analytic.png",
     "location" : "bdreappstore-apps/telecom/bandwidth_throttling.zip"
   }, {
     "category": "Category 2",
     "name": "Bandwidth Throttling",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "telecom/customer_attrition/analytic.jpg",
+    "icon": "telecom/customer_attrition/analytic.png",
     "location" : "bdreappstore-apps/telecom/customer_attrition.zip"
   }]
 }, {
@@ -56,21 +70,21 @@
     "name": "Customer Attrition",
     "description": "This application is about ",
     "id": "bb06b1eec9c8",
-    "icon": "insurance/customer_attrition/analytic.jpg",
+    "icon": "insurance/customer_attrition/analytic.png",
     "location" : "bdreappstore-apps/insurance/customer_attrition.zip"
   }, {
     "category": "Category 3",
     "name": "NPS Survey Analytics",
     "description": "This application is about ",
     "id": "92973f4cfbfc",
-    "icon": "insurance/nps_survey_analytics/analytic.jpg",
+    "icon": "insurance/nps_survey_analytics/analytic.png",
     "location" : "bdreappstore-apps/insurance/nps_survey_analytics.zip"
   }, {
     "category": "Category 3",
     "name": "Regulatory Compliance",
     "description": "This application is about ",
     "id": "b06bbb86d278",
-    "icon": "insurance/regulatory_compliance/analytic.jpg",
+    "icon": "insurance/regulatory_compliance/analytic.png",
     "location" : "bdreappstore-apps/insurance/regulatory_compliance.zip"
   }]
 }, {
@@ -81,15 +95,50 @@
     "name": "Store Labor Optimization",
     "description": "This application is about ",
     "id": "9a18ffe9f148",
-    "icon": "retail/store_labor_optimization/analytic.jpg",
+    "icon": "retail/store_labor_optimization/analytic.png",
     "location" : "bdreappstore-apps/retail/store_labor_optimization.zip"
   }, {
     "category": "Category 2",
-    "name": "Weather Impact",
+    "name": "Brand Engagement",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "retail/weather_impact/analytic.jpg",
-    "location" : "bdreappstore-apps/retail/weather_impact.zip"
+    "icon": "retail/brand_engagement/analytic.png",
+    "location" : "bdreappstore-apps/retail/brand_engagement.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Behavioral Engagement",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "retail/behavioral_engagement/analytic.png",
+    "location" : "bdreappstore-apps/retail/behavioral_engagement.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Campaign Analysis",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "retail/campaign_analysis/analytic.png",
+    "location" : "bdreappstore-apps/retail/campaign_analysis.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Customer Life Time Value",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "retail/customer_lifetime_value/analytic.png",
+    "location" : "bdreappstore-apps/retail/customer_lifetime_value.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Digital Engagement",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "retail/digital_engagement/analytic.png",
+    "location" : "bdreappstore-apps/retail/digital_engagement.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Propensity Models",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "retail/propensity_models/analytic.png",
+    "location" : "bdreappstore-apps/retail/propensity_models.zip"
   }]
 }, {
   "name": "Heathcare",
@@ -99,14 +148,14 @@
     "name": "Revenue Leakage",
     "description": "This application is about ",
     "id": "9a18ffe9f148",
-    "icon": "healthcare/revenue_leakage/analytic.jpg",
+    "icon": "healthcare/revenue_leakage/analytic.png",
     "location" : "bdreappstore-apps/healthcare/revenue_leakage.zip"
   }, {
     "category": "Category 2",
     "name": "Pricing Optimization",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "healthcare/pricing_optimization/analytic.jpg",
+    "icon": "healthcare/pricing_optimization/analytic.png",
     "location" : "bdreappstore-apps/healthcare/pricing_optimization.zip"
   }]
 }, {
@@ -114,17 +163,17 @@
   "id": "enu",
   "columns": [{
     "category": "Category 2",
-    "name": "HR Optimization",
+    "name": "HR Process Optimization",
     "description": "This application is about ",
-    "icon": "healthcare/pricing_optimization/analytic.jpg",
-    "location" : "bdreappstore-apps/healthcare/pricing_optimization.zip"
+    "icon": "energy/hr_optimization/analytic.png",
+    "location" : "bdreappstore-apps/energy/hr_optimization.zip"
   }, {
     "category": "Category 2",
-    "name": "Voltage Optimization",
+    "name": "Real Time Event Detection",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "healthcare/pricing_optimization/analytic.jpg",
-    "location" : "bdreappstore-apps/healthcare/pricing_optimization.zip"
+    "icon": "energy/event_detection/analytic.png",
+    "location" : "bdreappstore-apps/energy/event_detection.zip"
   }]
 }
  
