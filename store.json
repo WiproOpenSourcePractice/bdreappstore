@@ -99,11 +99,46 @@
     "location" : "bdreappstore-apps/retail/store_labor_optimization.zip"
   }, {
     "category": "Category 2",
-    "name": "Weather Impact",
+    "name": "Brand Engagement",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "retail/weather_impact/analytic.png",
-    "location" : "bdreappstore-apps/retail/weather_impact.zip"
+    "icon": "retail/brand_engagement/analytic.png",
+    "location" : "bdreappstore-apps/retail/brand_engagement.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Behavioral Engagement",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "retail/behavioral_engagement/analytic.png",
+    "location" : "bdreappstore-apps/retail/behavioral_engagement.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Campaign Analysis",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "retail/campaign_analysis/analytic.png",
+    "location" : "bdreappstore-apps/retail/campaign_analysis.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Customer Life Time Value",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "retail/customer_lifetime_value/analytic.png",
+    "location" : "bdreappstore-apps/retail/customer_lifetime_value.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Digital Engagement",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "retail/digital_engagement/analytic.png",
+    "location" : "bdreappstore-apps/retail/digital_engagement.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Propensity Models",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "retail/propensity_models/analytic.png",
+    "location" : "bdreappstore-apps/retail/propensity_models.zip"
   }]
 }, {
   "name": "Heathcare",
