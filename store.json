@@ -12,24 +12,38 @@
     "category": "Category 1",
     "name": "Next Best Offer",
     "description": "This application is about ",
-    "id": "46701a72410c",
+    "id": "46701a72410d",
     "icon": "banking/next_best_offer/analytic.jpg",
     "location" : "bdreappstore-apps/banking/next_best_offer.zip"
   }, {
     "category": "Category 1",
     "name": "Universal Persona",
     "description": "This application is about ",
-    "id": "46701a72410c",
+    "id": "46701a72410e",
     "icon": "banking/reputation_management/analytic.jpg",
     "location" : "bdreappstore-apps/banking/reputation_management.zip"
   }, {
     "category": "Category 1",
     "name": "Reputation Management",
     "description": "This application is about ",
-    "id": "46701a72410c",
+    "id": "46701a72410f",
     "icon": "banking/universal_persona/analytic.jpg",
     "location" : "bdreappstore-apps/banking/universal_persona.zip"
-  }]
+  },{
+    "category": "Category 1",
+    "name": "Client Life Time Value",
+    "description": "This application is about ",
+    "id": "46701a72410g",
+    "icon": "banking/lifetime_value/analytic.jpg",
+    "location" : "bdreappstore-apps/banking/lifetime_value.zip"
+  },{
+    "category": "Category 1",
+    "name": "Fraud Prediction",
+    "description": "This application is about ",
+    "id": "46701a72410f",
+    "icon": "banking/fraud_prediction/analytic.jpg",
+    "location" : "bdreappstore-apps/banking/fraud_prediction.zip"
+  },]
 }, {
   "name": "Telecom",
   "id": "telecom",
@@ -114,17 +128,17 @@
   "id": "enu",
   "columns": [{
     "category": "Category 2",
-    "name": "HR Optimization",
+    "name": "HR Process Optimization",
     "description": "This application is about ",
-    "icon": "healthcare/pricing_optimization/analytic.jpg",
-    "location" : "bdreappstore-apps/healthcare/pricing_optimization.zip"
+    "icon": "energy/hr_optimization/analytic.jpg",
+    "location" : "bdreappstore-apps/energy/hr_optimization.zip"
   }, {
     "category": "Category 2",
-    "name": "Voltage Optimization",
+    "name": "Real Time Event Detection",
     "description": "This application is about ",
     "id": "de3a49a458cc",
-    "icon": "healthcare/pricing_optimization/analytic.jpg",
-    "location" : "bdreappstore-apps/healthcare/pricing_optimization.zip"
+    "icon": "energy/event_detection/analytic.jpg",
+    "location" : "bdreappstore-apps/energy/event_detection.zip"
   }]
 }
  
