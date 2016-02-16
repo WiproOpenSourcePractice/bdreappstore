@@ -139,6 +139,20 @@
     "id": "de3a49a458cc",
     "icon": "retail/propensity_models/analytic.png",
     "location" : "bdreappstore-apps/retail/propensity_models.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Weather Impact",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "retail/weather_impact/analytic.png",
+    "location" : "bdreappstore-apps/retail/weather_impact.zip"
+  }, {
+    "category": "Category 2",
+    "name": "store Performance",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "retail/store_performance/analytic.png",
+    "location" : "bdreappstore-apps/retail/store_performance.zip"
   }]
 }, {
   "name": "Heathcare",
