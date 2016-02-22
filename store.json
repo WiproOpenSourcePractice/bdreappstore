@@ -49,14 +49,14 @@
   "id": "telecom",
   "columns": [{
     "category": "Category 2",
-    "name": "Customer Attrition",
+    "name": "Bandwidth Throttling",
     "description": "This application is about ",
     "id": "9a18ffe9f148",
     "icon": "telecom/bandwidth_throttling/analytic.png",
     "location" : "bdreappstore-apps/telecom/bandwidth_throttling.zip"
   }, {
     "category": "Category 2",
-    "name": "Bandwidth Throttling",
+    "name": "Customer Attrition",
     "description": "This application is about ",
     "id": "de3a49a458cc",
     "icon": "telecom/customer_attrition/analytic.png",
