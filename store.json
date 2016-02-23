@@ -61,6 +61,13 @@
     "id": "de3a49a458cc",
     "icon": "telecom/customer_attrition/analytic.png",
     "location" : "bdreappstore-apps/telecom/customer_attrition.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Customer Acquisition",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "telecom/customer_acquisition/analytic.png",
+    "location" : "bdreappstore-apps/telecom/customer_acquisition.zip"
   }]
 }, {
   "name": "Insurance",
@@ -86,6 +93,20 @@
     "id": "b06bbb86d278",
     "icon": "insurance/regulatory_compliance/analytic.png",
     "location" : "bdreappstore-apps/insurance/regulatory_compliance.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Customer Acquisition",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "insurance/customer_acquisition/analytic.png",
+    "location" : "bdreappstore-apps/insurance/customer_acquisition.zip"
+  }, {
+    "category": "Category 2",
+    "name": "Fraud Prediction",
+    "description": "This application is about ",
+    "id": "de3a49a458cc",
+    "icon": "insurance/fraud_prediction/analytic.png",
+    "location" : "bdreappstore-apps/insurance/fraud_prediction.zip"
   }]
 }, {
   "name": "Retail",
