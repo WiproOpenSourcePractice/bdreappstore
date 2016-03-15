@@ -1,3 +1,6 @@
+create database hub_in_prod_20150528;
+create database clu_poc;
+
 use hub_in_prod_20150528;
 
 create table if not exists SSGHCGP 
