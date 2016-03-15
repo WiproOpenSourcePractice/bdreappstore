@@ -210,6 +210,17 @@
     "icon": "energy/event_detection/analytic.png",
     "location" : "bdreappstore-apps/energy/event_detection.zip"
   }]
+},
+{
+  "name": "Demo",
+  "id": "demo",
+  "columns": [{
+    "category": "Category demo",
+    "name": "Column Lineage",
+    "description": "This application is about ",
+    "icon": "demo/lineage/analytic.png",
+    "location" : "bdreappstore-apps/demo/lineage.zip"
+  }]
 }
  
 ]
