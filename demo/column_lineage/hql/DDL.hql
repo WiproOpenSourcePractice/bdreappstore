@@ -1,5 +1,5 @@
 create database if not exists hub_in_prod_20150528;
-create database if not exists clu_poc;
+create database if not exists bank_poc;
 
 use hub_in_prod_20150528;
 
@@ -20,7 +20,7 @@ GROUP_MEMBER_ABBREVIATION string
 )
 stored as  ORC;
 
-use clu_poc;
+use bank_poc;
 
 --- view 1
 drop view if exists CUST_GROUP;
@@ -291,8 +291,8 @@ RUN_DATE string
 PARTITIONED BY (acct string)
 stored as ORC;
 
-drop table if exists CLU_ALL_COUNTRY_FLAT_FILE;
-create table CLU_ALL_COUNTRY_FLAT_FILE 
+drop table if exists BANK_ALL_COUNTRY_FLAT_FILE;
+create table BANK_ALL_COUNTRY_FLAT_FILE 
 (
 FLAG_JOIN string,
 COUNTRY_CODE string,
@@ -441,8 +441,8 @@ stored as ORC;
 
 
 --Table for data reconciliation
-drop table if exists CLU_ACCOUNT_COUNT;
-create table CLU_ACCOUNT_COUNT
+drop table if exists BANK_ACCOUNT_COUNT;
+create table BANK_ACCOUNT_COUNT
 (
 COUNTRY string,
 EXEC_DATE string,
@@ -457,8 +457,8 @@ STATUS string
 stored as ORC;
 
 --Table for Exception
-drop table if exists clu_poc.CLU_EXCEPTIONS;
-create table clu_poc.CLU_EXCEPTIONS
+drop table if exists bank_poc.BANK_EXCEPTIONS;
+create table bank_poc.BANK_EXCEPTIONS
 (
 COUNTRY string,
 ACCOUNT_TYPE string,
